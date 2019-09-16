@@ -1,7 +1,7 @@
 {
-  "taskdb": "mongodb+taskdb://192.168.5.96:27017/taskdb",
-  "projectdb": "mongodb+projectdb://192.168.5.96:27017/projectdb",
-  "resultdb": "mongodb+resultdb://192.168.5.96:27017/resultdb",
+  "taskdb": "mongodb+taskdb://10.10.21.2:27017/taskdb",
+  "projectdb": "mongodb+projectdb://10.10.21.2:27017/projectdb",
+  "resultdb": "mongodb+resultdb://10.10.21.2:27017/resultdb",
   "webui": {
     "username": "nick",
     "password": "123456",
